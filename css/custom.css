@@ -1,0 +1,21 @@
+.sanic {
+    width: 200px;
+}
+
+.dance-baby-dance {
+    width: 500px;
+}
+.smaller {
+    width: 400px;
+}
+.rock-the-boat {
+    width: 800px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.reveal pre code {
+    max-height: 530px;
+}
