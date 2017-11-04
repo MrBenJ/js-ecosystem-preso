@@ -4,7 +4,8 @@
   "description": "Javascript Ecosystem for GDG DevFest 2017",
   "main": "index.js",
   "scripts": {
-    "start": "grunt serve"
+    "start": "grunt serve",
+    "build": "grunt"
   },
   "author": "Ben Junya",
   "license": "MIT",
