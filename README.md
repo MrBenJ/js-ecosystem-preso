@@ -1,6 +1,8 @@
 The Javascript Ecosystem
 ========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MrBenJ/js-ecosystem-preso.svg)](https://greenkeeper.io/)
+
 A presentation for GDG DevFest March 2017. Created by Ben Junya
 
 ## What we talk about
